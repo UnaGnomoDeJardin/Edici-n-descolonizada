@@ -1,0 +1,177 @@
+.cabin-<uniquifier> {
+  font-family: "Cabin", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.gowun-batang-regular {
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.gowun-batang-bold {
+  font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.habitar{
+  font-size:17px;
+  margin-bottom:-250px;
+  margin-left:250px;
+  font-family:Cabin, sans serif;
+  color: #262E50;
+}
+.Editora {
+  float: left;
+  width: 500px;
+  margin-top: 310px;
+  margin-left: 550px;
+  color: #262E50;
+  font-size:20px;
+  font-family:Gowun Batang, serif;
+}
+.columnA {
+  float: left;
+  margin-top: 254px;
+  margin-left:-690px;
+  font-size:20px;
+  color:#149BCA;
+   font-family:Gowun Batang, serif;
+}
+.columnA2 {
+  float: left;
+  margin-top: 340px;
+  margin-left: -690px;
+  margin-bottom:0;
+  font-size:20px;
+  color:#149BCA;
+   font-family:Gowun Batang, serif;
+}
+.me {
+  float: left;
+  margin-top:399px;
+  margin-left:-594px;
+  font-size:20px;
+  color: grey;
+   font-family:Gowun Batang, serif;
+}
+.columnB {
+  float:left;
+  margin-top:257px;
+  margin-left:-290px;
+  font-size:20px;
+  color:#149BCA;
+   font-family:Gowun Batang, serif;
+}
+.columnB2 {
+  float: left;
+  margin-top:113px;
+  margin-left:-207px;
+  font-size:20px;
+  color:#149BCA;
+  font-family:Gowun Batang, serif;
+  backgorund-color: 
+}
+main{
+  z-index: 1;
+  position:absolute;
+  left:0;
+  top:0;
+  right:0;
+
+}
+.mio{
+  float: right;
+  margin-top: 30px;
+  margin-right: 230px;
+  color: #262E50;
+  font-size:30px;
+  font-family:Cabin, sans serif;
+  letter-spacing:3px;
+}
+body{
+  background-color:#F8E4CC;
+}
+.clave{
+  Font-size:17px;
+  color: #262E50;
+  margin-left: 130px;
+  margin-top:670px;
+  font-family: Cabin, sans serif;
+  letter-spacing:6px;
+  width: 300px;
+}
+.Tuyo{
+  float: right;
+  margin-top: -650px;
+  margin-right: 576px;
+  color: #262E50;
+  font-size:20px;
+  font-family:Gowun Batang, serif;
+}
+.mio2{
+  float: right;
+  margin-top: -265px;
+  margin-right: 286px;
+  color: #262E50;
+  font-size:20px;
+  font-family:Gowun Batang, serif;
+}
+.nuestro{
+  float: right;
+  margin-top: -600px;
+  margin-right: 360px;
+  color: #149BCA;
+  font-size:20px;
+  font-family:Gowun Batang, serif;
+ }
+.Nohay{
+  float: right;
+  margin-top: -150px;
+  margin-right:140px;
+  marin-bottom:60px;
+  color: #262E50;
+  font-size:17px;
+  font-family:Cabin, sans serif;
+  Letter-spacing:13px;
+  text-align: center;
+  width:500px;
+}
+.coloreditor{
+  color:#149BCA;
+}
+.dialogo{
+   float: left;
+  margin-top: 10px;
+  margin-left: 130px;
+  color: #262E50;
+  font-size:20px;
+  font-family:Gowun Batang, serif;
+}
+.colordialogo{
+  color:#149BCA;
+}
+.Actuar{
+   float: left;
+  margin-top: -90px;
+  margin-left:700px;
+  margin-bottom:60px;
+  color: #262E50;
+  font-size:17px;
+  font-family:Cabin, sans serif;
+  Letter-spacing:6px;
+}
+.guion{
+  color:#149BCA
+}
+.Pasos{
+   float: left;
+  margin-top:10px;
+  margin-left:-520px;
+  color: #262E50;
+  font-size:20px;
+  font-family:Gowun Batang, serif;
+  width:600px;
+}
